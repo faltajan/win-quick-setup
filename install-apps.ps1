@@ -9,3 +9,6 @@ winget install -e --id Git.Git
 
 # Install Visual Studio Code
 winget install -e --id Microsoft.VisualStudioCode
+
+# Install Python 3.12
+winget install --id=Python.Python.3.12  -e
