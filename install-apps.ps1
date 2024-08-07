@@ -6,3 +6,6 @@ winget install -e --id Microsoft.WindowsTerminal
 
 # Install Git
 winget install -e --id Git.Git
+
+# Install Visual Studio Code
+winget install -e --id Microsoft.VisualStudioCode
